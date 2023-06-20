@@ -1,0 +1,15 @@
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\bin\Debug\net6.0\zadaha_25.exe
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\bin\Debug\net6.0\zadaha_25.deps.json
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\bin\Debug\net6.0\zadaha_25.runtimeconfig.json
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\bin\Debug\net6.0\zadaha_25.dll
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\bin\Debug\net6.0\zadaha_25.pdb
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\zadaha_25.csproj.AssemblyReference.cache
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\zadaha_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\zadaha_25.AssemblyInfoInputs.cache
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\zadaha_25.AssemblyInfo.cs
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\zadaha_25.csproj.CoreCompileInputs.cache
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\zadaha_25.dll
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\refint\zadaha_25.dll
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\zadaha_25.pdb
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\zadaha_25.genruntimeconfig.cache
+C:\Users\slavj\OneDrive\Рабочий стол\Domashka\Domashka\Seminar_4_C#\zadaha_25\obj\Debug\net6.0\ref\zadaha_25.dll
